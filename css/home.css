@@ -28,7 +28,7 @@ html {
 .demotext{
   position: absolute;
   color: white;
-  width: 98.7%;
+  width: 99.7%;
   text-align: center !important;
   bottom: 16%;
   font-family: 'MuseoSans700';
@@ -38,7 +38,7 @@ html {
 .hovertexthome {
   position: absolute;
   color: white;
-  width: 98.7%;
+  width: 99.7%;
   text-align: center !important;
   bottom: 14%;
   font-family: 'MuseoSans700';
@@ -137,7 +137,7 @@ animation: fade-in 4s;
 
 
 #particle-slider {
-    width: 100%;
+    width: 99%;
     height: 100%;
     overflow: hidden;
     position: initial;
